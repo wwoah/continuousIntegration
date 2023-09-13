@@ -1,8 +1,12 @@
 #include <iostream>
 
-int main(){
+using namespace std;
 
-cout << "Hello World\n";
-
-return 0;
+int main() {
+  int a = 24;
+	
+  // print variable
+  cout << "Value of a is " << a;
+	
+  return 0;
 }
